@@ -1,0 +1,28 @@
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.exe
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.deps.json
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.runtimeconfig.json
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.dll
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.pdb
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.AssemblyInfoInputs.cache
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.AssemblyInfo.cs
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.csproj.CoreCompileInputs.cache
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.dll
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\refint\WeatherSenseApplication.dll
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.pdb
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.genruntimeconfig.cache
+C:\Users\samahm\source\repos\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\ref\WeatherSenseApplication.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.exe
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.deps.json
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.runtimeconfig.json
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\bin\Debug\net8.0\WeatherSenseApplication.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.AssemblyInfoInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.AssemblyInfo.cs
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.csproj.CoreCompileInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\refint\WeatherSenseApplication.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\WeatherSenseApplication.genruntimeconfig.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb3, labbgrupp 32\WeatherSenseApplication\WeatherSenseApplication\obj\Debug\net8.0\ref\WeatherSenseApplication.dll
